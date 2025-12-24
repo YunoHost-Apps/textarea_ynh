@@ -8,7 +8,7 @@ It shall NOT be edited by hand.
   Textarea, packaged for YunoHost
 </h1>
 
-A notes webapp
+Notes webapp
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://textarea.my/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://textarea.my/)
@@ -21,7 +21,7 @@ A notes webapp
 
 
 ## Screenshots
-![Screenshot of Textarea](./doc/screenshots/example.jpg)
+![Screenshot of Textarea](./doc/screenshots/screenshot.png)
 
 ## 📦 Developer info
 
