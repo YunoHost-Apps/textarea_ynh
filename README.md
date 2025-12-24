@@ -8,7 +8,7 @@ It shall NOT be edited by hand.
   Textarea, packaged for YunoHost
 </h1>
 
-A notes webapp
+Notes webapp
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://textarea.my/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://textarea.my/)
@@ -18,10 +18,6 @@ A notes webapp
 <a href="https://apps.yunohost.org/app/textarea"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
 <a href="https://github.com/YunoHost-Apps/textarea_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
-
-
-## Screenshots
-![Screenshot of Textarea](./doc/screenshots/example.jpg)
 
 ## 📦 Developer info
 
