@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "textarea"
 name = "Textarea"
-description.en = "A notes webapp"
-description.fr = "A notes webapp"
+description.en = "Notes webapp"
+description.fr = "Application web pour prendre des notes"
 
 version = "1.0~ynh1"
 
