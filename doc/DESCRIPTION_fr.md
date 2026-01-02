@@ -2,10 +2,16 @@ Un éditeur de texte minimaliste qui fonctionne entièrement dans votre navigate
 
 ### Fonctionnalités
 
-    📝 C'est une zone de texte ! En fait, non.
-    🗜️ La magie de la compression - Votre texte est compressé avec deflate, parce que nous sommes sophistiqués comme ça.
-    🔗 Stockage d'URL - Partagez vos notes en copiant une URL de 500 caractères. Vos amis vont adorer !
-    🌓 Mode sombre - Respecte vos pauvres yeux et vos préférences en matière de couleurs.
-    💾 Enregistrement automatique - Déclenché à 500 ms, car nous ne sommes pas des sauvages.
-    📱 Compatible avec les mobiles - Tapez votre manifeste où que vous soyez.
-    🎯 Pas de backend - Aucun serveur n'a été endommagé lors de la création de cette application.
+- La magie de la compression - Votre texte est compressé avec deflate, parce que nous sommes sophistiqués comme ça.
+- Stockage d'URL - Partagez vos notes en copiant une URL de 500 caractères. Vos amis vont adorer !
+- Mode sombre - Respecte vos pauvres yeux et vos préférences en matière de couleurs.
+- Enregistrement automatique - Déclenché à 500 ms, car nous ne sommes pas des sauvages.
+- Compatible avec les mobiles - Tapez votre manifeste où que vous soyez.
+- Pas de backend - Aucun serveur n'a été endommagé lors de la création de cette application.
+
+### Conseils de pro
+
+- Commencez votre document par `# Titre` pour définir un titre de page personnalisé.
+- Vos données sont stockées dans localStorage ET dans l'URL.
+- Ajoutez un attribut de style à la balise <article> via DevTools. Il sera également enregistré dans l'URL !
+- Ajoutez `/qr` pour obtenir un code QR pour la page actuelle.
