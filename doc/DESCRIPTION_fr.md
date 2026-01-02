@@ -8,3 +8,10 @@ Un éditeur de texte minimaliste qui fonctionne entièrement dans votre navigate
 - Enregistrement automatique - Déclenché à 500 ms, car nous ne sommes pas des sauvages.
 - Compatible avec les mobiles - Tapez votre manifeste où que vous soyez.
 - Pas de backend - Aucun serveur n'a été endommagé lors de la création de cette application.
+
+### Conseils de pro
+
+- Commencez votre document par `# Titre` pour définir un titre de page personnalisé.
+- Vos données sont stockées dans localStorage ET dans l'URL.
+- Ajoutez un attribut de style à la balise <article> via DevTools. Il sera également enregistré dans l'URL !
+- Ajoutez `/qr` pour obtenir un code QR pour la page actuelle.
