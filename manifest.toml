@@ -7,7 +7,7 @@ name = "Textarea"
 description.en = "Notes webapp"
 description.fr = "Application web pour prendre des notes"
 
-version = "1.0.0~ynh1"
+version = "2026.10.05~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -26,9 +26,9 @@ multi_instance = true
 ldap = false
 sso = false
 
-disk = "50M"
-ram.build = "50M"
-ram.runtime = "50M"
+disk = "30M"
+ram.build = "0M"
+ram.runtime = "30M"
 
 [install]
     [install.domain]
@@ -47,9 +47,9 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/antonmedv/textarea/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 = "c45553b24c219492c0759ac982bb29d0314e05b55406ebfd5b05dc93352a10cc"
-    autoupdate.strategy = "latest_github_tag"
+    url = "https://github.com/antonmedv/textarea/archive/8aa2247e4d92d963059e8788624e0c0d1be8d6a3.tar.gz"
+    sha256 = "b9c363bd6009b66c426d0f9d401e33c1893df1e82e45ee237d448cd6e1c5e3e2"
+    autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
